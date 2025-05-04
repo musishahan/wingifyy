@@ -6,7 +6,7 @@
   <body>
   <div class="carousel">
     <div>
-      <img src="C:\Users\musis\OneDrive\Documents\Poshah Image assets\Poshah Logo.PNG" width=:"100%">
+      <img src="./Poshah Logo.PNG" width=:"100%">
     </div>
   </div>
     <div class="product">
