@@ -2,7 +2,7 @@
   <head>
     <title> Poshah</title>
     <h1 align="center">Poshah</h1>
-    <p font-color="black">Poshah is a manutailer where you can get premium footwear directly from the manufacturer</p>
+    <p font-color="black" align="center">Poshah is a manutailer where you can get premium footwear directly from the manufacturer</p>
   </head>
   <body style="background-color:#EFEFEF;">
   <div class="wingify">
