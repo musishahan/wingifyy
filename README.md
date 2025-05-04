@@ -43,6 +43,9 @@
     </div>
   </body>
 <style>
+  .body{
+    background-color: #EFEFEF;
+    }
   .product{
     background-color: #EFEFEF;
     }
@@ -65,9 +68,6 @@
     content: "";
     display: table;
     clear: both;
-    }
-  .body{
-    background-color: #EFEFEF;
     }
 </style>
 </html>
