@@ -66,5 +66,8 @@
     display: table;
     clear: both;
     }
+  .body{
+    background-color: #EFEFEF;
+    }
 </style>
 </html>
