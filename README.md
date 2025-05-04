@@ -17,8 +17,8 @@
       </div>
     </div>
     <div class="card">
+      <h2 align="center"> Checkout our new products</h2>
       <div class="carousel">
-        <h2 align="center"> Checkout our new products</h2>
         <img src="https://dgstak-rk.myshopify.com/cdn/shop/collections/Photoroom_20250206_213030.jpg?v=1744752439&width=535">
       </div>
       <div class="carousel">
