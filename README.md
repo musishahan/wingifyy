@@ -4,7 +4,7 @@
     <h1 align="center">Poshah</h1>
     <p font-color="black">Poshah is a manutailer where you can get premium footwear directly from the manufacturer</p>
   </head>
-  <body>
+  <body style="background-color:#EFEFEF;">
   <div class="wingify">
     <div class="wing">
       <img src="./Poshah Logo.PNG" width="100%">
