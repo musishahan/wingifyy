@@ -58,7 +58,7 @@
     }
   .carousel{
     float: left;
-    width: 40%;
+    width: 30%;
     padding: 10px:
   }
   .card:after{
