@@ -11,7 +11,7 @@
   </div>
     <div class="product">
       <div>
-        <form align="center">
+        <form align="center" class="poshah" id="posh">
           <label for="fname">First Name:</label><br>
           <input type="text" id="fname" name="fname"><br>
           <label for="lname">Last Name:</label><br>
@@ -23,4 +23,9 @@
       </div>
     </div>
   </body>
+<style>
+  .product{
+    background-color: #EFEFEF;
+    }
+</style>
 </html>
